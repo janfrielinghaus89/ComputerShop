@@ -1,0 +1,6 @@
+﻿  Program.cpp
+D:\Programming\Game\ComputerShop\ComputerShop\ComputerShop\Login.h(222,21): warning C4101: 'e': unreferenced local variable
+D:\Programming\Game\ComputerShop\ComputerShop\ComputerShop\RegisterForm.h(303,20): warning C4101: 'ex': unreferenced local variable
+D:\Programming\Game\ComputerShop\ComputerShop\ComputerShop\Program.cpp(10,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Login.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ComputerShop.vcxproj -> D:\Programming\Game\ComputerShop\ComputerShop\x64\Debug\ComputerShop.exe

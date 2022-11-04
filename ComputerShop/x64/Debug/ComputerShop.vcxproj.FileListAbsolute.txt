@@ -1,0 +1,6 @@
+D:\Programming\Game\ComputerShop\ComputerShop\ComputerShop\x64\Debug\ComputerShop.vcxproj.AssemblyReference.cache
+D:\Programming\Game\ComputerShop\ComputerShop\ComputerShop\x64\Debug\ComputerShop.vcxproj.SuggestedBindingRedirects.cache
+D:\Programming\Game\ComputerShop\ComputerShop\ComputerShop\x64\Debug\ComputerShop.Login.resources
+D:\Programming\Game\ComputerShop\ComputerShop\ComputerShop\x64\Debug\ComputerShop.vcxproj.GenerateResource.cache
+D:\Programming\Game\ComputerShop\ComputerShop\ComputerShop\x64\Debug\ComputerShop.MainForm.resources
+D:\Programming\Game\ComputerShop\ComputerShop\ComputerShop\x64\Debug\ComputerShop.RegisterForm.resources
